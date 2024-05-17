@@ -30,15 +30,15 @@ The dataset includes the following features:
 
 ## Results
 The decision tree model achieves an accuracy of approximately 84% on the test data. 
-**Classification Report**
-             precision    recall  f1-score   support
+Sure, here's the classification report presented as a table:
 
-      absent       0.84      0.94      0.89        17
-     present       0.83      0.62      0.71         8
-
-    accuracy                           0.84        25
-   macro avg       0.84      0.78      0.80        25
-weighted avg       0.84      0.84      0.83        25
+|                  | Precision | Recall | F1-Score | Support |
+|------------------|-----------|--------|----------|---------|
+| **Absent**       | 0.84      | 0.94   | 0.89     | 17      |
+| **Present**      | 0.83      | 0.62   | 0.71     | 8       |
+| **Accuracy**     |           |        | 0.84     | 25      |
+| **Macro Avg**    | 0.84      | 0.78   | 0.80     | 25      |
+| **Weighted Avg** | 0.84      | 0.84   | 0.83     | 25      |
 
 ** Confusion Matrix**
    [[16  1]
