@@ -22,7 +22,7 @@ The dataset includes the following features:
 ## Usage
 
 1. **Clone the Repository:**
-   git clone https://github.com/<your_username>/Kyphosis-Prediction.git
+   git clone https://github.com/brucelee31072004/Kyphosis-Prediction.git
 2. **Install Dependencies:**
    pip install pandas seaborn matplotlib scikit-learn pydot
 3. **Run the Code:**
