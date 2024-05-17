@@ -40,6 +40,6 @@ Sure, here's the classification report presented as a table:
 | **Macro Avg**    | 0.84      | 0.78   | 0.80     | 25      |
 | **Weighted Avg** | 0.84      | 0.84   | 0.83     | 25      |
 
-** Confusion Matrix**
+**Confusion Matrix**
    [[16  1]
    [ 3  5]]
